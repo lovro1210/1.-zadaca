@@ -1,0 +1,6 @@
+C:\Users\Lovro\Documents\Sourcetree\C#\1-zadaca\zad2\bin\Debug\zad2.exe.config
+C:\Users\Lovro\Documents\Sourcetree\C#\1-zadaca\zad2\bin\Debug\zad2.exe
+C:\Users\Lovro\Documents\Sourcetree\C#\1-zadaca\zad2\bin\Debug\zad2.pdb
+C:\Users\Lovro\Documents\Sourcetree\C#\1-zadaca\zad2\obj\Debug\zad2.exe
+C:\Users\Lovro\Documents\Sourcetree\C#\1-zadaca\zad2\obj\Debug\zad2.pdb
+C:\Users\Lovro\Documents\Sourcetree\C#\1-zadaca\zad2\obj\Debug\zad2.csprojResolveAssemblyReference.cache
